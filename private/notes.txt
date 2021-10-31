@@ -1,0 +1,22 @@
+youtubel linke 
+https://www.youtube.com/watch?v=vU1lK18iR6M&list=PL5svY1bZDBZrLEL4AtNker0ivaHn8zg9T
+typeScript page link
+https://www.typescriptlang.org/
+
+git init 
+git git add .
+git commit -m "initial commit"
+git remote rm origin
+git remote
+
+
+emojisense
+.ejs 
+jsdoc 
+auto closetag
+All autocompelete
+auto rename
+😄
+
+cnt + shift + b
+    select tsc: watch-tsconfig.json
