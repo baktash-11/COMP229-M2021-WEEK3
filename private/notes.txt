@@ -20,3 +20,9 @@ auto rename
 
 cnt + shift + b
     select tsc: watch-tsconfig.json
+
+
+cd.. 
+express -e COMP229-M2021-WEEK3
+yarn upgrade
+npm update
